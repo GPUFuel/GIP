@@ -114,7 +114,9 @@ We welcome contributions to GPUFuel and the GIP process! If you have an idea for
 
 | ID   | Title                                       | Status       | Author       |
 |------|---------------------------------------------|--------------|--------------|
-| 0001 | Example Proposal Title                     | Draft        | Your Name    |
-| 0002 | GPU Resource Allocation Improvements       | Approved     | Your Name    |
+| 0001 | Governance                                  | Draft        | masve123     |
+| 0002 | GPU Resource Allocation Improvements        | Draft        | masve123     |
+| 0003 | Decentralized GPU Network                   | Draft        | masve123     |
+
 
 ---
